@@ -4,6 +4,15 @@ Descripción del Proyecto
 
 El proyecto consiste en el desarrollo de una aplicación web para la gestión segura de usuarios, donde se pueden registrar nombres de usuario y contraseñas en una base de datos.
 
+![Captura de pantalla 2024-08-26 a la(s) 13 07 10](https://github.com/user-attachments/assets/46f6c011-934c-4299-852c-6e06970713b7)
+
+![Captura de pantalla 2024-08-26 a la(s) 18 04 15](https://github.com/user-attachments/assets/2c913318-58bb-4cd5-94ad-8b2d17a615a8)
+
+
+![Captura de pantalla 2024-08-26 a la(s) 18 14 55](https://github.com/user-attachments/assets/3f7fed27-db56-4892-baf1-0d3e79c038b0)
+
+
+
 
 El sistema está construido utilizando los lenguajes de programación y herramientas siguientes:
 Lenguajes en Uso
