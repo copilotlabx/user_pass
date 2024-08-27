@@ -2,7 +2,10 @@
 # Perú-2024
 Descripción del Proyecto
 
-El proyecto consiste en el desarrollo de una aplicación web para la gestión segura de usuarios, donde se pueden registrar nombres de usuario y contraseñas en una base de datos. El sistema está construido utilizando los lenguajes de programación y herramientas siguientes:
+El proyecto consiste en el desarrollo de una aplicación web para la gestión segura de usuarios, donde se pueden registrar nombres de usuario y contraseñas en una base de datos.
+
+
+El sistema está construido utilizando los lenguajes de programación y herramientas siguientes:
 Lenguajes en Uso
 
     PHP:
