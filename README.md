@@ -1,4 +1,4 @@
-# Author : Eduardo Esteves - copilotlabxgmail.com
+# Author : Eduardo Esteves - copilotlabx@gmail.com
 # Perú-2024
 Descripción del Proyecto
 
