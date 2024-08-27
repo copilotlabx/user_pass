@@ -1,0 +1,10 @@
+CREATE DATABASE users_db;
+
+USE users_db;
+
+CREATE TABLE users (
+    id VARCHAR(8) NOT NULL PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(50) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
